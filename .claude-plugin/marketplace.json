@@ -1,0 +1,5 @@
+{
+  "name": "claude-skills",
+  "owner": { "name": "langyannik1-sudo" },
+  "plugins": [{ "name": "peitschen-mann", "source": "./peitschen-mann" }]
+}
