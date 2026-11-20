@@ -22,6 +22,7 @@ damit es in jeder neuen Sitzung wieder verfügbar ist.
 | ponytail | ZIP-Upload | `sources/ponytail-main`, Skills in `.claude/skills/ponytail*` |
 | graphify (v8) | ZIP-Upload | `sources/graphify-8` |
 | agentskills | ZIP-Upload | `sources/agentskills-main` |
+| Peitschen-Mann (eigener Mod) | in einer Sitzung gebaut | `peitschen-mann/`, Marketplace `.claude-plugin/marketplace.json` |
 | OmniRoute | https://github.com/cheaper-inference/OmniRoute.git | nur die Skills in `.claude/skills/` (`cli-*`, `omni-*`, `config-codex-cli`); Projekt bei Bedarf neu klonen |
 
 ## Einrichtung in einer neuen Sitzung

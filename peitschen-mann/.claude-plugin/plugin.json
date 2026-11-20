@@ -1,0 +1,1 @@
+{ "name": "peitschen-mann", "version": "0.1.0", "description": "Nach 15 s Arbeit peitscht ein Strichmann Claude über den ganzen Bildschirm. Nur Spaß.", "types": "./types/index.d.ts" }
